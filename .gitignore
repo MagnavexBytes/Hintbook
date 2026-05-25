@@ -1,5 +1,5 @@
 !*/
 !README.md
 !.gitignore
-node_modules
-.nuxt
+node_modules/
+.nuxt/
