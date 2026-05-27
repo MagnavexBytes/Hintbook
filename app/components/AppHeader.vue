@@ -18,10 +18,10 @@
           <span class="text-sm font-medium text-slate-700">Библиотека</span>
         </NuxtLink>
 
-        <div class="header-part flex items-center gap-2 cursor-pointer opacity-70 hover:opacity-100 transition-opacity">
+        <!-- <div class="header-part flex items-center gap-2 cursor-pointer opacity-70 hover:opacity-100 transition-opacity">
           <img class="icon-small w-5 h-5" src="/icons/tool_5161448.png" alt="">
           <span class="text-sm font-medium text-slate-700">Поддержка</span>
-        </div>
+        </div> -->
 
         <div class="header-part flex items-center gap-2 border-l border-slate-200 pl-6 cursor-pointer hover:opacity-80 transition-opacity">
           <img class="icon-big w-6 h-6" src="/icons/user_4855270.png" alt="User">

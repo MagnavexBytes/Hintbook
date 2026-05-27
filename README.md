@@ -1,3 +1,4 @@
+```text
 hintbook/
 ├── .env                        # Секретные ключи (БД, Yandex Cloud)
 ├── drizzle.config.ts           # Конфигурация базы данных Drizzle
@@ -19,6 +20,4 @@ hintbook/
     │   └── schema.ts           # Схема таблиц БД (Drizzle)
     └── utils/
         └── s3.ts               # Утилита для работы с Yandex Object Storage
-
-npm run dev
-npm run db:push
+```
