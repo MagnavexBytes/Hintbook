@@ -7,6 +7,16 @@
 npm install
 ```
 
+## Запуск контейнера (Docker). Логин и пароль в .env
+```bash
+docker-compose up -d
+```
+
+* Порт: `5432`.
+* Адрес **pgAdmin**: [http://localhost:8080].
+* Логин: `PGADMIN_EMAIL`.
+* Пароль: `PGADMIN_PASSWORD`.
+
 ## Применение Drizzle к Postgre SQL:
 ```bash
 npm run db:push
@@ -17,4 +27,4 @@ npm run db:push
 npm run dev
 ```
 
-После запуска проект будет доступен по адресу: [http://localhost:3000]
+Проект поднимается по адресу: [http://localhost:3000]
